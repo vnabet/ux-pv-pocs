@@ -1,0 +1,28 @@
+{
+  "ok": "Ok",
+  "yes": "Oui",
+  "abort": "Abandonner",
+  "retry": "Réessayer",
+  "no": "Non",
+  "cancel": "Annuler",
+
+  "errorTitle": "Erreur",
+  "warningTitle": "Avertissement",
+  "defaultTitle": "Confirmation",
+  "defaultMessage": "Voulez-vous abandonner vos modifications ?",
+
+  "loading": "Chargement en cours",
+
+  "changePassword": {
+    "minlengthRequirement": "{{requiredLength}} caractères minimum",
+    "maxlengthRequirement": "{{requiredLength}} caractères maximum",
+    "lowerCaseRequirement": "1 minuscule",
+    "upperCaseRequirement": "1 majuscule",
+    "numberRequirement": "1 chiffre",
+    "specialCharacterRequirement": "1 caractère spécial",
+    "changePasswordNewPassword": "Nouveau mot de passe",
+    "changePasswordConfirmNewPassword": "Confirmation du nouveau mot de passe",
+    "errorConfirmPwdMsg": "Les mots de passe ne correspondent pas",
+    "errorNewPwdMsg": "Mot de passe obligatoire"
+  }
+}

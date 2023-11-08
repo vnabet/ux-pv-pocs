@@ -1,0 +1,4 @@
+{
+  "internalServerError": "Server Internal Error.",
+  "unauthorizedError": "The authentication has failed."
+}

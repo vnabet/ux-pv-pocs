@@ -1,0 +1,37 @@
+{
+  "sendPasswordCanActivate": "You must fill in your identifier to continue.",
+
+  "cancelButton": "Cancel",
+  "okButton": "OK",
+
+  "forgottenPasswordTitle": "Forgotten Password or identifier",
+  "forgottenPasswordDescription": "Enter the E-mail address associated to your user account. An E-mail containing your new password and your identifier will be sent in a few moments.",
+  "forgottenPasswordUserLabel": "Login",
+  "forgottenPasswordEMailLabel": "E-mail Address*",
+  "forgottenPasswordEmailSentTitle": "Information",
+  "forgottenPasswordEmailSent": "The E-mail containing your new password was sent the following E-mail address:<br>",
+
+  "loginTitle": "Authentication",
+  "loginRememberUser": "Remember my login",
+  "loginValidate": "Login",
+  "loginForgottenPassword": "Forgotten password or identifier ?",
+  "loginUserPlaceholder": "User",
+  "loginDomainPlaceholder": "Enterprise",
+  "loginPwdPlaceholder": "Password",
+  "loginClientIdPlaceholder": "Client Identifier",
+
+  "changePasswordTitle": "Authentication",
+  "changePasswordUserLabel": "User*",
+  "changePasswordOldPassword": "Old password*",
+  "warningChangePasswordTitle": "Change Password",
+
+  "errorOldPwdMsg": "The user password is required.",
+  "errorPwd": "The new password must be different from the old one.",
+  "errorUnknownPasswordChange": "The new password password is invalid.",
+
+  "signInWithMicrosoft": "Sign in with Microsoft",
+
+  "warningModifiedPwd": "Your password was changed. The change will be applied the next time you login.",
+  "warningAuthentRequired": "The password can be modified once connected only!",
+  "warningUpdatePassword": "Your password has expired, please change it."
+}

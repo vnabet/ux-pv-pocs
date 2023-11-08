@@ -1,0 +1,4 @@
+{
+  "errorFileTooBig": "The file is too large.",
+  "errorBlobNotSupported": "The Blobs are not supported by your browser."
+}

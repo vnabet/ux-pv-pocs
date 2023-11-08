@@ -1,0 +1,28 @@
+{
+  "ok": "OK",
+  "yes": "Yes",
+  "abort": "Cancel",
+  "retry": "Try again",
+  "no": "No",
+
+  "cancel": "Cancel",
+  "errorTitle": "Error",
+  "warningTitle": "Warning",
+  "defaultTitle": "Confirm",
+  "defaultMessage": "Abort Changes ?",
+
+  "loading": "Loading",
+
+  "changePassword": {
+    "minlengthRequirement": "{{requiredLength}} caractères minimum",
+    "maxlengthRequirement": "{{requiredLength}} caractères maximum",
+    "lowerCaseRequirement": "1 minuscule",
+    "upperCaseRequirement": "1 majuscule",
+    "numberRequirement": "1 chiffre",
+    "specialCharacterRequirement": "1 caractère spécial",
+    "changePasswordNewPassword": "New Password",
+    "changePasswordConfirmNewPassword": "Confirm New password",
+    "errorConfirmPwdMsg": "Passwords do not match.",
+    "errorNewPwdMsg": "The new password is required."
+  }
+}
